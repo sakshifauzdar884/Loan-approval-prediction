@@ -1,0 +1,16 @@
+Loan Approval Prediction - Model Evaluation
+=============================================
+Accuracy : 0.9106
+Precision: 0.8991
+Recall   : 1.0000
+F1 Score : 0.9469
+ROC-AUC  : 0.8404
+
+                  precision    recall  f1-score   support
+
+Not Approved (N)       1.00      0.56      0.72        25
+    Approved (Y)       0.90      1.00      0.95        98
+
+        accuracy                           0.91       123
+       macro avg       0.95      0.78      0.83       123
+    weighted avg       0.92      0.91      0.90       123
